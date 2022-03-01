@@ -2,8 +2,8 @@
 layout: page
 title: Projetos Finalizados
 subtitle: Que tal conhecer um pouco nossos projetos?
-cover-img: /assets/img/done.jpeg
-share-img: /assets/img/done.jpeg
+cover-img: /assets/img/done.jpg
+share-img: /assets/img/done.jpg
 ---
 
 <!-- I3E-D3 -->
@@ -58,6 +58,59 @@ share-img: /assets/img/done.jpeg
 </article>
 </div>
 
+<!-- PIM&PELOD -->
+<div data-aos="fade-left" data-aos-offset="150"> 
+<article class="project-preview-left">
+    <a href="https://ieeecimatec.github.io/projeto/">
+      <h2 class="project-title">PIM&PELOD</h2>      
+    </a>
+    <p class="project-meta project-meta-left">
+        Finalizado em Setembro de 2021
+        <a href="https://ieeecimatec.github.io/embscimatec/"><img src="{{ 'assets/img/embs_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
+    </p>
+    <div class="project-image project-image-small">
+      <a href="https://ieeecimatec.github.io/project-pim_pelod//">
+        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="">
+      </a>
+    </div>
+    <div class="project-image project-image-short">
+      <a href="https://ieeecimatec.github.io/project-pim_pelod//">
+        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="">
+      </a>
+    </div>
+    <div class="project-entry">
+      Aplicativo que realiza os cálculos PIM (Pediatric Index of Mortality ou Índice de Mortalidade Pediátrica) e PELOD (Pediatric Logistic Organ Dysfunction ou Disfunção Orgânica Logística Pediátrica), e almeja promover mais praticidade na área médica e ser a ponte entre a tecnologia de informação e a biomedicina.    
+</div> 
+</article>
+</div>
+
+<!-- Órteses do Futuro -->
+<div data-aos="fade-right" data-aos-offset="150"> 
+<article class="project-preview-right">
+    <a href="https://ieeecimatec.github.io/project-orteses/">
+      <h2 class="project-title">Órteses do Futuro</h2>      
+    </a>
+    <p class="project-meta project-meta-right">
+        <a href="https://ieeecimatec.github.io/embscimatec/"><img src="{{ 'assets/img/embs_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
+        Finalizado em julho de 2021
+    </p>    
+    <div class="project-image project-image-small">
+      <a href="https://ieeecimatec.github.io/project-orteses/">
+        <img src="{{ 'assets/img/orteses/cover-orteses.jpg' | relative_url }}" alt="project thumbnail" class="img-blur rounded-circle">
+      </a>
+    </div>
+    <div class="project-image project-image-short">
+      <a href="https://ieeecimatec.github.io/project-orteses/">
+        <img src="{{ 'assets/img/orteses/orteses-done.png' | relative_url }}" alt="project thumbnail" class="img-blur rounded-circle">
+      </a>
+    </div>
+    <div class="project-entry">
+      Este projeto objetiva produzir órteses impressas em 3D, de baixo custo utilizando materiais biodegradáveis diminuindo o impacto ambiental causado pelo descarte do gesso e permitindo que hospitais tenham acesso a tecnologias assistivas.    
+    </div> 
+</article>
+</div>
+
+
 <!-- JarvIEEEs -->
 <div data-aos="fade-left" data-aos-offset="150"> 
 <article class="project-preview-left">
@@ -79,60 +132,7 @@ share-img: /assets/img/done.jpeg
       </a>
     </div>
     <div class="project-entry">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sem eleifend, convallis nibh id, dignissim nunc. Cras eu dolor ultrices, vestibulum est eu, rhoncus lorem. Ut ac nisi eget nulla lacinia pellentesque vitae eget arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce.    
-    </div> 
-</article>
-</div>
-
-
-<!-- PIM&PELOD -->
-<div data-aos="fade-right" data-aos-offset="150"> 
-<article class="project-preview-right">
-    <a href="https://ieeecimatec.github.io/projeto/">
-      <h2 class="project-title">PIM&PELOD</h2>      
-    </a>
-    <p class="project-meta project-meta-right">
-        Finalizado em Setembro de 2021
-        <a href="https://ieeecimatec.github.io/embscimatec/"><img src="{{ 'assets/img/embs_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
-    </p>
-    <div class="project-image project-image-small">
-      <!-- <a href="https://ieeecimatec.github.io/projeto/"> -->
-        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="">
-      <!-- </a> -->
-    </div>
-    <div class="project-image project-image-short">
-      <!-- <a href="https://ieeecimatec.github.io/projeto/"> -->
-        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="">
-      <!-- </a> -->
-    </div>
-    <div class="project-entry">
-      Aplicativo que realiza os cálculos PIM, Pediatric Index of Mortality ou Índice de Mortalidade Pediátrica, e PELOD, Pediatric Logistic Organ Dysfunction ou Disfunção Orgânica Logística Pediátrica;    
-</div> 
-</article>
-</div>
-
-<!-- Órteses do Futuro -->
-<div data-aos="fade-left" data-aos-offset="150"> 
-<article class="project-preview-left">
-    <a href="https://ieeecimatec.github.io/project-orteses/">
-      <h2 class="project-title">Órteses do Futuro</h2>      
-    </a>
-    <p class="project-meta project-meta-left">
-        <a href="https://ieeecimatec.github.io/embscimatec/"><img src="{{ 'assets/img/embs_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
-        Finalizado em julho de 2021
-    </p>    
-    <div class="project-image project-image-small">
-      <a href="https://ieeecimatec.github.io/project-orteses/">
-        <img src="{{ 'assets/img/orteses/cover-orteses.jpg' | relative_url }}" alt="project thumbnail" class="img-blur rounded-circle">
-      </a>
-    </div>
-    <div class="project-image project-image-short">
-      <a href="https://ieeecimatec.github.io/project-orteses/">
-        <img src="{{ 'assets/img/orteses/orteses-done.png' | relative_url }}" alt="project thumbnail" class="img-blur rounded-circle">
-      </a>
-    </div>
-    <div class="project-entry">
-      Este projeto objetiva produzir órteses impressas em 3D, de baixo custo utilizando materiais biodegradáveis diminuindo o impacto ambiental causado pelo descarte do gesso e permitindo que hospitais tenham acesso a tecnologias assistivas.    
+      A ideia do projeto surgiu do assistente pessoal do Homem de Ferro, o J.A.R.V.I.S. Nosso JarvIEEES tem como objetivo principal ser um assistente pessoal para nosso Ramo, podendo ser utilizado futuramente para uma automação em nossa Sede. A ideia é que ele também seja utilizado para controle de robôs através de voz, como em nosso I3E-D3.
     </div> 
 </article>
 </div>

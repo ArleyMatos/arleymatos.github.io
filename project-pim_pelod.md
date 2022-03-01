@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PIM-PELOD
+title: PIM&PELOD
 subtitle: Desenvolvendo software para medicina
 cover-img: /assets/img/pim_pelod/cover-pimpelod.png
 ---
