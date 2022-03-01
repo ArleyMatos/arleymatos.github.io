@@ -70,12 +70,12 @@ share-img: /assets/img/done.jpg
     </p>
     <div class="project-image project-image-small">
       <a href="https://ieeecimatec.github.io/project-pim_pelod//">
-        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="">
+        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="img-blur">
       </a>
     </div>
     <div class="project-image project-image-short">
       <a href="https://ieeecimatec.github.io/project-pim_pelod//">
-        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="">
+        <img src="{{ 'assets/img/pim_pelod/pimpelod.jpeg' | relative_url }}" alt="project thumbnail" class="img-blur">
       </a>
     </div>
     <div class="project-entry">
