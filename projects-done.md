@@ -132,7 +132,7 @@ share-img: /assets/img/done.jpg
       </a>
     </div>
     <div class="project-entry">
-      A ideia do projeto surgiu do assistente pessoal do Homem de Ferro, o J.A.R.V.I.S. Nosso JarvIEEES tem como objetivo principal ser um assistente pessoal para nosso Ramo, podendo ser utilizado futuramente para uma automação em nossa Sede. A ideia é que ele também seja utilizado para controle de robôs através de voz, como em nosso I3E-D3.
+        A ideia do projeto surgiu do assistente pessoal do Homem de Ferro, o J.A.R.V.I.S. Nosso JarvIEEEs tem como objetivo principal ser capaz de realizar ações apenas por meio de comandos de voz, sendo construído com Python3 e SQL. A ideia é que ele se torne uma interface para projetos futuros, tais como a automação da sede e utilização em outros robôs.
     </div> 
 </article>
 </div>

@@ -5,8 +5,11 @@ subtitle: Nosso assistente pessoal
 cover-img: /assets/img/jarvieees/jarvieees-cover.jpg
 ---
 
-A ideia do projeto surgiu do assistente pessoal do Homem de Ferro, o J.A.R.V.I.S. Nosso JarvIEEES tem como objetivo principal ser um assistente pessoal para nosso Ramo, podendo ser utilizado futuramente para uma automação em nossa Sede. A ideia é que ele também seja utilizado para controle de robôs através de voz, como por exemplo em nosso [I3E-D3](../project-i3e_d3/)
+O projeto consistiu no desenvolvimento de um assistente pessoal para computador com o intuito de permitir que algumas ações no dispositivo pudessem ser executadas por meio de comandos de voz, ou seja, sem a necessidade de nenhum clique. Alguns exemplos dessas ações são: abrir um site específico, realizar uma busca na rede, informar data, hora e previsão do tempo e até mesmo conversar com o usuário sobre temas diversos.
 
+A linguagem de programação utilizada foi o Python 3 com inúmeras bibliotecas desenvolvidas para essa linguagem. Além disso, o conjunto de ações desenvolvidas foram implementadas por meio de um banco de dados que pode ser baixado e operado localmente, de tal forma que permite ao usuário alterar as funcionalidades já feitas ou ainda desenvolver novas funções que atendam às suas necessidades e preferências específicas.
+
+<img width="30" src="{{ 'assets/img/github-logo.png' | relative_url }}" alt="logo github"/> **Repositório:** [rascimatec/JarvIEEEs]( https://github.com/rascimatec/JarvIEEEs)
 
 ### Equipe de Desenvolvimento
 <div class="row">
