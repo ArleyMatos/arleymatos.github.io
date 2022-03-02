@@ -5,12 +5,27 @@ subtitle: O melhor jeito de salvar seu histórico de saúde
 cover-img: /assets/img/healthchain/hc-cover03.png
 ---
 
+#### Contexto
+
 O Health Chain surgiu em um momento que estávamos bastante antenados no mundo de criptomoedas e criptoativos. Com isso, percebemos que há diversas aplicações possíveis da tecnologia blockchain na sociedade. Diante disso, com o avanço da tecnologia de software atualmente, seria possível criar um aplicativo para armazenar todos os dados de um paciente proporcionando um melhor diagnóstico aos profissionais da saúde. 
 
 Dessa maneira, não há nenhuma ferramenta no mercado brasileiro capaz de armazenar os exames, dados médicos e relatórios de pacientes utilizando a criptografia da rede Blockchain. Afinal, com o registro clínico do indivíduo, o profissional terá uma visão muito mais embasada da situação, e poderá indicar os próximos passos com maior assertividade. Com o aplicativo Health Chain, isso será possível através da tecnologia blockchain e desenvolvimento de contratos inteligentes. Com isso, você(leitor) pode estar se perguntando, mas o que é Blockchain?O que são contratos inteligentes?
 
 Blockchain é uma rede P2P com criptografia avançada, existem diversas plataformas que utilizam essa rede, uma delas que estamos utilizando para desenvolver é a Ethereum. A Ethereum é uma plataforma blockchain com sua própria linguagem de programação, sistema de pagamento e anonimato. Ela é bastante conhecida no mundo dos criptoativos por ser capaz de construir smart contracts, que funcionam como contratos virtuais imutáveis. Através da Ethereum, é possível desenvolver um aplicativo descentralizado, ou seja, um aplicativo que não possui nenhum órgão mediador entre os serviços(P2P). Dessa forma, será garantido a seguridade dos dados médicos de um paciente. 
 
+<div class="row">
+  <div class=" col-xl-auto offset-xl-0 col-lg-4 offset-lg-0">
+    <div class="mobile-side-scroller">
+      <table class="table-borderless highlight">
+        <thead>
+          <tr>
+            <th><center><img src="{{ '/assets/img/healthchain/healthchain-photo.png' | relative_url }}" width="700" alt="health" class="img-fluid"/></center></th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+  </div>
+</div>
 
 ### Equipe de Desenvolvimento
 <div class="row">
