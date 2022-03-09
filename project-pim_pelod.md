@@ -54,11 +54,11 @@ O aplicativo mostra-se utilizável e objetivo, apesar da ausência de testes sob
       <table class="table-borderless highlight">
         <thead>
           <tr>
-            <th><center><img src="{{ 'assets/img/voluntarios/semfoto.png' | relative_url}}" width="100" alt="Fernanda" class="img-fluid rounded-circle" /></center></th> 
+            <th><center><img src="{{ 'assets/img/voluntarios/fernanda_lisboa.jpeg' | relative_url}}" width="100" alt="Fernanda" class="img-fluid rounded-circle" /></center></th> 
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/semfoto.png' | relative_url}}" width="100" alt="Antonio" class="img-fluid rounded-circle" /></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/antonio_cesar.jpeg' | relative_url}}" width="100" alt="Antonio" class="img-fluid rounded-circle" /></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/semfoto.png' | relative_url}}" width="100" alt="Maria" class="img-fluid rounded-circle" /></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/maria_amado.png' | relative_url}}" width="100" alt="Maria" class="img-fluid rounded-circle" /></center></th>
           </tr>
         </thead>
         <tbody>
