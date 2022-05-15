@@ -64,7 +64,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
         </tbody>
         <thead>
           <tr>
-            <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.png' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios/ygor_vieira.jpeg' | relative_url }}" width="100" alt="ygor" class="img-fluid rounded-circle"/></center></th>
             <th></th>
