@@ -27,18 +27,18 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
           <tr>
             <th><center><img src="{{ 'assets/img/voluntarios/guilherme_kroetz.png' | relative_url }}" width="100" alt="kroetz" class="img-fluid rounded-circle" /></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/ygor_vieira.jpeg' | relative_url }}" width="100" alt="ygor" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/ruan_utah.png' | relative_url }}" width="100" alt="ruan" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/daniel_araujo.jpeg' | relative_url }}" width="100" alt="daniel" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/julia_maria.jpeg' | relative_url }}" width="100" alt="Julia" class="img-fluid rounded-circle"/></center></th>
           </tr>
         </thead>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
             <td width="20%"><center>Guilherme Kroetz</center></td>
             <td></td>
-            <td width="20%"><center>Ygor Vieira</center></td>
+            <td width="20%"><center>Ruan Utah</center></td>
             <td></td>
-            <td width="20%"><center>Daniel Menezes</center></td>
+            <td width="20%"><center>Julia Maria</center></td>
           </tr>
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>Conselheiro</center></small></td>
@@ -50,45 +50,55 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>guilherme.kroetz@fieb.org.br</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>ygorvieira@ieee.org</center></small></td>
+            <td style="vertical-align: top"><small><center>ruanutah@ieee.org</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>dmaraujo.arq.urb@gmail.com</center></small></td>
+            <td style="vertical-align: top"><small><center>Julia.ribeiro@aln.senaicimatec.edu.br</center></small></td>
           </tr>
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>-</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>(75) 9 9995-0368</center></small></td>
+            <td style="vertical-align: top"><small><center>(75) 9 8148-6272</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>(71) 9 8337-5083</center></small></td>
+            <td style="vertical-align: top"><small><center>(71) 9 8521-3767</center></small></td>
           </tr>
         </tbody>
         <thead>
           <tr>
-            <th><center><img src="{{ 'assets/img/voluntarios/ruan_utah.png' | relative_url }}" width="100" alt="ruan" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.png' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/yan_valdez.png' | relative_url }}" width="100" alt="yan" class="img-fluid rounded-circle"/></center></th>
-          </tr>
+            <th><center><img src="{{ 'assets/img/voluntarios/ygor_vieira.jpeg' | relative_url }}" width="100" alt="ygor" class="img-fluid rounded-circle"/></center></th>
+            <th></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/arley_matos.png' | relative_url }}" width="100" alt="Arley" class="img-fluid rounded-circle"/></center></th>
+            <th></th>
         </thead>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
-            <td width="20%"><center>Ruan Utah</center></td>
+            <td width="20%"><center>João Gabriel</center></td>
             <td></td>
-            <td width="20%"><center>Yan Valdez</center></td>
+            <td width="20%"><center>Ygor Vieira</center></td>
+            <td></td>
+            <td width="20%"><center>Arley Matos</center></td>
           </tr>
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>Secretario</center></small></td>
             <td></td>
             <td style="vertical-align: top"><small><center>Tesoureiro</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>Webmaster</center></small></td>
           </tr>
           <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>ruanutah@ieee.org</center></small></td>
+            <td style="vertical-align: top"><small><center>joao.chaves@aln.senaicimatec.edu.br</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>yanvaldez@gmail.com</center></small></td>
+            <td style="vertical-align: top"><small><center>ygorvieira@ieee.org</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>arley.matos44@gmail.com</center></small></td>
           </tr>
           <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>(71) 9 8148-6272</center></small></td>
+            <td style="vertical-align: top"><small><center>(71) 9 9320-7157</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>(71) 9 9142-8042</center></small></td>
+            <td style="vertical-align: top"><small><center>(71) 9 9995-0368</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>(71) 9 98803-9237</center></small></td>
           </tr>
         </tbody>
       </table>

@@ -46,7 +46,7 @@ A RAS CIMATEC possui o seu próprio site, confira [**ACESSE O SITE DA RAS CIMATE
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios//tiago_barreto.jpeg' | relative_url }}" width="100" alt="Tiago" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><a href="https://www.linkedin.com/in/felipefiscina/"><center><img src="{{ 'assets/img/voluntarios/valente.png' | relative_url }}" width="100" alt="Valente" class="img-fluid rounded-circle img-blur"/></center></a></th>
+            <th><a href="https://www.linkedin.com/in/felipefiscina/"><center><img src="{{ 'assets/img/voluntarios/felipe_valente.png' | relative_url }}" width="100" alt="Valente" class="img-fluid rounded-circle img-blur"/></center></a></th>
           </tr>
         </thead>
         <tbody>
@@ -77,7 +77,6 @@ A RAS CIMATEC possui o seu próprio site, confira [**ACESSE O SITE DA RAS CIMATE
             <td></td>
             <td style="vertical-align: top"><small><center>-</center></small></td>
           </tr>
-
         </tbody>
       </table>
     </div>
