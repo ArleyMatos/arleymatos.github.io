@@ -1,12 +1,9 @@
 ---
 layout: page
-#title: Smart Energy
+title: Smart Energy
 cover-img: /assets/img/smart_energy/back-ground_Smart_Energy.png
 ---
 
-# Smart Energy
-
-## Apresentação
 
 O projeto Smart Energy consiste no desenvolvimento de um sistema de automação residencial focado na eficiência energética e conforto. Serão utilizadas lâmpadas inteligentes com funções de otimizar, captar, registrar e armazenar o consumo energético, além da regulação de suas propriedades luminosas a fim de proporcionar o bem-estar dos usuários baseando-se no ciclo circadiano. Ademais, também irá contar com a automatização de um ventilador por meio de sensores com parâmetros de temperatura e umidade do ar, a fim de promover, simultaneamente, o conforto térmico e a eficiência energética no ambiente residencial.
 
@@ -30,7 +27,7 @@ Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé
 
 ### Esquemático do projeto
 
-<p style="text-align: center;"> <img src="/assets/img/smart_energy/Smart_Energy-Esquematico.jpg" alt="Esquema" height="394" width="634"/> </p>
+<p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
 
 Então, o projeto é dividido em 2 etapas: automação da lâmpada LED e coleta de dados sobre o consumo energético para fins de análise.
 
