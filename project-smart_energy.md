@@ -1,8 +1,10 @@
 ---
 layout: page
+#title: Smart Energy
 cover-img: /assets/img/smart_energy/back-ground_Smart_Energy.png
 ---
-# O BayIEEEmax
+
+# Smart Energy
 
 ## Apresentação
 
@@ -28,7 +30,7 @@ Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé
 
 ### Esquemático do projeto
 
-<p style="text-align: center;"> <img src="/assets/img/smart_energy/Smart_Energy-Esquematico.jpg" alt="Esquema" height="591" width="951"/> </p>
+<p style="text-align: center;"> <img src="/assets/img/smart_energy/Smart_Energy-Esquematico.jpg" alt="Esquema" height="394" width="634"/> </p>
 
 Então, o projeto é dividido em 2 etapas: automação da lâmpada LED e coleta de dados sobre o consumo energético para fins de análise.
 
