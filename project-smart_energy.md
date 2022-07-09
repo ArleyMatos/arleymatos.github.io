@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smart Energy
+#title: Smart Energy
 cover-img: /assets/img/smart_energy/back-ground_Smart_Energy.png
 ---
 
