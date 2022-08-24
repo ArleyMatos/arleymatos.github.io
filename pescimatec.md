@@ -25,7 +25,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
       <table class="table-borderless highlight">
         <thead>
           <tr>
-            <th><center><img src="{{ 'assets/img/voluntarios/guilherme_kroetz.png' | relative_url }}" width="100" alt="kroetz" class="img-fluid rounded-circle" /></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/paulo_andrade.jpeg' | relative_url }}" width="100" alt="paulo" class="img-fluid rounded-circle" /></center></th>
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios/ruan_utah.png' | relative_url }}" width="100" alt="ruan" class="img-fluid rounded-circle"/></center></th>
             <th></th>
@@ -34,7 +34,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
         </thead>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
-            <td width="20%"><center>Guilherme Kroetz</center></td>
+            <td width="20%"><center>Paulo Andrade</center></td>
             <td></td>
             <td width="20%"><center>Ruan Utah</center></td>
             <td></td>
@@ -48,7 +48,7 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
             <td style="vertical-align: top"><small><center>Vice-Presidente</center></small></td>
           </tr>
           <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>guilherme.kroetz@fieb.org.br</center></small></td>
+            <td style="vertical-align: top"><small><center>-</center></small></td>
             <td></td>
             <td style="vertical-align: top"><small><center>ruanutah@ieee.org</center></small></td>
             <td></td>
@@ -62,7 +62,6 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
             <td style="vertical-align: top"><small><center>(71) 9 8521-3767</center></small></td>
           </tr>
         </tbody>
-        <thead>
           <tr>
             <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
             <th></th>
@@ -70,7 +69,6 @@ A [**PES** (Power and Energy Society)](http://www.ieee-pes.org/) é a Sociedade 
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios/arley_matos.png' | relative_url }}" width="100" alt="Arley" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-        </thead>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
             <td width="20%"><center>João Gabriel</center></td>
