@@ -24,9 +24,9 @@ Membro: Nilton Figueredo
           <tr>
             <th><center><img src="{{ assets/img/voluntarios/ruan_utah.png' | relative_url }}" width="100" alt="Ruan" class="img-fluid rounded-circle" /></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/felipe_leao.jpg' | relative_url }}" width="100" alt="Felipe" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="Felipe" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
             <th></th>
             <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="João Henrique" class="img-fluid rounded-circle"/></center></th>
           </tr>
@@ -38,16 +38,41 @@ Membro: Nilton Figueredo
             <td width="25%"><center>Gabriel Santanna</center></td>
             <td></td>
             <td width="25%"><center>Lucas cancio</center></td>
+            <td></td> 
+          <tr style="text-align: center" >
+            <td style="vertical-align: top"><small><center>Voluntário <p/> Líder do projeto</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>Voluntário</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>Voluntário</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>Voluntário</center></small></td>
+          </tr>
+          <tr>
+            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
+            <th></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="ygor" class="img-fluid rounded-circle"/></center></th>
+            <th></th>
+        <tbody>
+          <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
+            <td width="20%"><center>Nilton Figueredo</center></td>
+            <td></td>
+            <td width="20%"><center>Pedro Dias</center></td>
+          <tr style="text-align: center" >
+            <td style="vertical-align: top"><small><center>Voluntário</center></small></td>
+            <td></td>
+            <td style="vertical-align: top"><small><center>Voluntário</center></small></td>
             <td></td>
           <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021 <p/> Líder do projeto</center></small></td>
+            <td style="vertical-align: top"><small><center></center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
+            <td style="vertical-align: top"><small><center></center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
+          <tr style="text-align: center" >
+            <td style="vertical-align: top"><small><center></center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
-          </tr>
+            <td style="vertical-align: top"><small><center></center></small></td>
+            <td></td>
         </tbody>
       </table>
     </div>
