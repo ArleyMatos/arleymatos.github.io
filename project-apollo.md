@@ -26,9 +26,9 @@ Membro: Nilton Figueredo
             <th></th>
             <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="Felipe" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="Gabriel Santana" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="João Henrique" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="Lucas Cancio" class="img-fluid rounded-circle"/></center></th>
           </tr>
         </thead>
         <tbody>
@@ -37,7 +37,7 @@ Membro: Nilton Figueredo
             <td></td>
             <td width="25%"><center>Gabriel Santanna</center></td>
             <td></td>
-            <td width="25%"><center>Lucas cancio</center></td>
+            <td width="25%"><center>Lucas Cancio</center></td>
             <td></td> 
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>Voluntário <p/> Líder do projeto</center></small></td>
@@ -49,9 +49,9 @@ Membro: Nilton Figueredo
             <td style="vertical-align: top"><small><center>Voluntário</center></small></td>
           </tr>
           <tr>
-            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="Joao G" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="Nilton" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="ygor" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/voluntarios/ieee_logo.png' | relative_url }}" width="100" alt="Pedro Dias" class="img-fluid rounded-circle"/></center></th>
             <th></th>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
