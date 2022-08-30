@@ -199,20 +199,20 @@ share-img: /assets/img/projects-inprog.jpg
 <!-- Trackieeers -->
 <div data-aos="fade-right" data-aos-offset="150"> 
 <article class="project-preview-right">
-    <a href="https://ieeecimatec.github.io/project-trackieeers/">
+    <a href="https://arleymatos.github.io/project-trackieeers">
       <h2 class="project-title">Trackieeers</h2>      
     </a>
     <p class="project-meta project-meta-right">
         Iniciado em julho de 2021
-        <a href="https://ieeecimatec.github.io/pescimatec/"><img src="{{ 'assets/img/pes_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
+        <a href="https://arleymatos.github.io/pescimatec/"><img src="{{ 'assets/img/pes_logo.png' | relative_url }}" width="30" hspace="5" class="img-zoom25"></a>
     </p>
     <div class="project-image project-image-small">
-      <a href="https://ieeecimatec.github.io/project-trackieeers/">
+      <a href="https://arleymatos.github.io/project-trackieeers/">
         <img src="{{ 'assets/img/logo-trackieeers.jpg' | relative_url }}" alt="trackieeers" class="img-blur">
       </a>
     </div>
     <div class="project-image project-image-short">
-      <a href="https://ieeecimatec.github.io/project-trackieeers/">
+      <a href="https://arleymatos.github.io/project-trackieeers/">
         <img src="{{ 'assets/img/logo-trackieeers.jpg' | relative_url }}" alt="logo trackieeers" class="img-blur">
       </a>
     </div>
