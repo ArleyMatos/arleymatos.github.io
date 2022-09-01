@@ -2,7 +2,7 @@
 layout: page
 title: Projeto Trackieeers
 subtitle: Monitoramento por aplicativo de um seguidor solar unidirecional 
-cover-img: /assets/img/Background_Trackieeers.png
+cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 ---
 
 O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
