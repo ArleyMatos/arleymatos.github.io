@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Projeto Trackieeers
-subtitle: Monitoramento por aplicativo de um seguidor solar unidirecional 
+title: 
 cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 ---
 
