@@ -52,7 +52,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
   <div class=" col-xl-auto offset-xl-0 col-lg-4 offset-lg-0">
     <div class="mobile-side-scroller">
       <table class="table-borderless highlight">
-        <thead>
           <tr>
             <th><center><img src="{{ 'assets/img/voluntarios/arley_matos.png' | relative_url }}" width="100" alt="Arley" class="img-fluid rounded-circle" /></center></th>
             <th></th>
@@ -60,8 +59,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-        </thead>
-        <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
             <td width="25%"><center>Arley Matos</center></td>
             <td></td>
@@ -76,10 +73,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
             <td></td>
             <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
             <td></td>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</div>
+
 
 
