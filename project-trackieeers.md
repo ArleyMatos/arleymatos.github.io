@@ -23,9 +23,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o SOLIDWORKS 
 
 **Suporte do ṕainel da placa solar
 
-<p style="text-align: center;">
-<iframe src="https://skfb.ly/oxHvX" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-</p>
+<div class="sketchfab-embed-wrapper"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/05e357003b8747888f35d34e6e0dd3fe/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suportepainel-05e357003b8747888f35d34e6e0dd3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;"> SuportePainel </a> by <a href="https://sketchfab.com/ArleyMatos?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;"> ArleyMatos </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ### Lista de materiais 
 
