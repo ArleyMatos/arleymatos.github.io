@@ -10,6 +10,7 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
 
 ## Desenvolvimento
 
+ - oloko meu 
 Após analisar as possibilidades de integração do arduino com a lâmpada, serão utilizados 2 sensores e 1 módulo wifi. O primeiro sensor, Fotoresistor LDR, é responsável por captar a luz emitida pelo ambiente e de acordo com a luminosidade, enviar informações ao Arduino de quanto está sendo incidido sobre o componente, ou seja, possibilitando a customização da dimerização do LED. Já o segundo sensor, Movimento Presença PIR, tem como finalidade analisar o ambiente em que está alocado e emitir uma resposta ao detectar qualquer movimento, no caso desse projeto a resposta seria ligar, ao detectar algum deslocamento, ou desligar as luzes, caso não fosse registrado nenhum movimento após certo período de tempo. Por fim, o módulo wifi ESP8266 tem como objetivo integrar a lâmpada com o Google Assistente (assistente virtual) para que seja possível a criação de comandos de voz para manipulação da lâmpada.
 Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé que possibilita controlar circuitos externos de grandes correntes a partir de pequenas correntes ou tensões.
 
