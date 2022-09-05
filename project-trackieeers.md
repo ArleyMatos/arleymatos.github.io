@@ -29,7 +29,7 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 <p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
 
 
-#### Modelagem 3D
+#### Modelagem 3D                   
 
 O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
 
