@@ -4,31 +4,13 @@ title:
 cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 ---
 
-O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
+      O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
 
-O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia e a criação do protótipo do Tracker e do software.
+      O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia e a criação do protótipo do Tracker e do software.
 
 ## Desenvolvimento
-
-O pŕojeto foi dividido em 4 entregáveis: Modelagem 3D; Circuito eletrônico; Aplicativo mobile (React-native); Banco de dados (FIREBASE). 
-
-### Esquemático do projeto
-
-<p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
-
-
-#### Modelagem 3D
-
-O softwares utilizados para cosntrução das peças e montagem foi o SOLIDWORKS e o ONSHAPE. Usados estes softwares para a confecção das peças:
-
-######Suporte do ṕainel da placa solar
-
-<div class="sketchfab-embed-wrapper"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="750" height="750" src="https://sketchfab.com/models/05e357003b8747888f35d34e6e0dd3fe/embed?autostart=1"> </iframe> 
-
-#####Montagem 
-
-
-
+      Inicialmento analisamos as possibilidades de modelos de Solar Tracker (Seguidor Solar) de eixo único (movimentando-se em uma direção) através de pesquisas. Posteriormente, elaboramos um modelo original da PES CIMATEC no softwatre de modelagem 3D (SOLIDWORKS e ONSHAPE), levando em consideração os cenários climáticos e de design que proporciona um melhor desempenho.
+      A par pŕojeto foi dividido em 4 entregáveis: Modelagem 3D; Circuito eletrônico; Aplicativo mobile (React-native); Banco de dados (FIREBASE). 
 
 ### Lista de materiais 
 
@@ -42,20 +24,31 @@ O softwares utilizados para cosntrução das peças e montagem foi o SOLIDWORKS 
 * Micro Servo 9g SG90 TowerPro
 
 
+### Esquemático do projeto
+
+<p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
+
+
+#### Modelagem 3D
+
+O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
+
+###### Suporte do ṕainel da placa solar
+
+<div class="sketchfab-embed-wrapper"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="620" height="620" src="https://sketchfab.com/models/05e357003b8747888f35d34e6e0dd3fe/embed?autostart=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suportepainel-05e357003b8747888f35d34e6e0dd3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;"> SuportePainel </a> by <a href="https://sketchfab.com/ArleyMatos?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;"> ArleyMatos </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+##### Montagem 
+
+
+
+
+
+
 
 
 ### Etapa atual do projeto
-
       
-
-### Próximos passos
-Agora em diante, serão feitas pesquisas sobre circuitos elétricos, banco de dados e Power BI. Em relação a banco de dados e PowerBI, o intuito é gerar um relatório com o consumo energético da lâmpada para analisar os dados. Já o estudo sobre circuitos elétricos será utilizado para entender e aplicar os conceitos no esquemático eletrônico do projeto.
-Com a chegada dos materiais para montagem do projeto, serão realizadas as primeiras experimentações. Será preciso configurar os sensores e o módulo de acordo com os parâmetros que já foram estabelecidos. Também será necessário integrar o arduino com um banco de dados para tabelar o quanto de energia está sendo consumido pela lâmpada e tabular esses dados para o relatório do PowerBI.
-Por fim, após a conclusão de testes e a obtenção de resultados satisfatórios, o projeto estará preparado para melhorar o conforto e o custo energético dos usuários.
-
-
-
-
+      A etapa atual do projeto consiste na integração do arduno com o banco de dados FIREBASE, para que possamos acessar os dados de coleta do aplicativo mobile através do FIREBASE. Com a conclusão desta etapa, iremos finalizar com a impressão definitiva das peças para montagem.
 
 
 ### Equipe de Desenvolvimento
