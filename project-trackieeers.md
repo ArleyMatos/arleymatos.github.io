@@ -10,9 +10,22 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
 
 ## Desenvolvimento
 
- - oloko meu 
-Após analisar as possibilidades de integração do arduino com a lâmpada, serão utilizados 2 sensores e 1 módulo wifi. O primeiro sensor, Fotoresistor LDR, é responsável por captar a luz emitida pelo ambiente e de acordo com a luminosidade, enviar informações ao Arduino de quanto está sendo incidido sobre o componente, ou seja, possibilitando a customização da dimerização do LED. Já o segundo sensor, Movimento Presença PIR, tem como finalidade analisar o ambiente em que está alocado e emitir uma resposta ao detectar qualquer movimento, no caso desse projeto a resposta seria ligar, ao detectar algum deslocamento, ou desligar as luzes, caso não fosse registrado nenhum movimento após certo período de tempo. Por fim, o módulo wifi ESP8266 tem como objetivo integrar a lâmpada com o Google Assistente (assistente virtual) para que seja possível a criação de comandos de voz para manipulação da lâmpada.
-Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé que possibilita controlar circuitos externos de grandes correntes a partir de pequenas correntes ou tensões.
+O pŕojeto foi dividido em 4 entregáveis: Modelagem 3D; Circuito eletrônico; Aplicativo mobile (React-native); Banco de dados (FIREBASE). 
+
+### Esquemático do projeto
+
+<p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
+
+
+#### Modelagem 3D
+
+O softwares utilizados para cosntrução das peças e montagem foi o SOLIDWORKS e o ONSHAPE. Usados estes softwares para a confecção das peças:
+
+**Suporte do ṕainel da placa solar
+
+<p style="text-align: center;">
+<iframe src="https://skfb.ly/oxHvX" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+</p>
 
 ### Lista de materiais 
 
@@ -26,11 +39,7 @@ Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé
 * Micro Servo 9g SG90 TowerPro
 
 
-### Esquemático do projeto
 
-<p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
-
-Então, o projeto é dividido em 4 etapas: Modelagem 3D, Circuito de controle, Aplicativo mobile e Integração com banco de dados FIREBASE.
 
 ### Etapa atual do projeto
 
@@ -43,9 +52,7 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
 
 
 
-<p style="text-align: center;">
-<iframe src="https://drive.google.com/file/d/1sPRXxb70yxjNKSapxKRAN_-f7V9Q5-Qt/view?usp=sharing" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-</p>
+
 
 
 ### Equipe de Desenvolvimento
