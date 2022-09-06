@@ -33,9 +33,9 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 
 O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
 
-###### Suporte do ṕainel da placa solar
+###### Suporte triangular
 
-<div class="sketchfab-embed-wrapper"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="620" height="620" src="https://sketchfab.com/models/05e357003b8747888f35d34e6e0dd3fe/embed?autostart=1"> 
+<div class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="600" height="600" src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe></div>
 
 ##### Montagem 
 
@@ -47,8 +47,8 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
 
 ### Etapa atual do projeto
-      
-      A etapa atual do projeto consiste na integração do arduno com o banco de dados FIREBASE, para que possamos acessar os dados de coleta do aplicativo mobile através do FIREBASE. Com a conclusão desta etapa, iremos finalizar com a impressão definitiva das peças para montagem.
+   #1C6941
+   A etapa atual do projeto consiste na integração do arduno com o banco de dados FIREBASE, para que possamos acessar os dados de coleta do aplicativo mobile através do FIREBASE. Com a conclusão desta etapa, iremos finalizar com a impressão definitiva das peças para montagem.
 
 
 ### Equipe de Desenvolvimento
