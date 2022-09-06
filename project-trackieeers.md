@@ -4,14 +4,13 @@ title:
 cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 ---
 
-O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
+   O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
 
-O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia e a criação do protótipo do Tracker e do software.
+   Inclui-se no projeto: Modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia, criação do protótipo do Tracker e do software.
 
 ## Desenvolvimento
-
-Após analisar as possibilidades de integração do arduino com a lâmpada, serão utilizados 2 sensores e 1 módulo wifi. O primeiro sensor, Fotoresistor LDR, é responsável por captar a luz emitida pelo ambiente e de acordo com a luminosidade, enviar informações ao Arduino de quanto está sendo incidido sobre o componente, ou seja, possibilitando a customização da dimerização do LED. Já o segundo sensor, Movimento Presença PIR, tem como finalidade analisar o ambiente em que está alocado e emitir uma resposta ao detectar qualquer movimento, no caso desse projeto a resposta seria ligar, ao detectar algum deslocamento, ou desligar as luzes, caso não fosse registrado nenhum movimento após certo período de tempo. Por fim, o módulo wifi ESP8266 tem como objetivo integrar a lâmpada com o Google Assistente (assistente virtual) para que seja possível a criação de comandos de voz para manipulação da lâmpada.
-Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé que possibilita controlar circuitos externos de grandes correntes a partir de pequenas correntes ou tensões.
+   Inicialmento analisamos as possibilidades de modelos de Solar Tracker (Seguidor Solar) de eixo único (movimentando-se em uma direção) através de pesquisas. Posteriormente, elaboramos um modelo original da PES CIMATEC no softwatre de modelagem 3D (SOLIDWORKS e ONSHAPE), levando em consideração os cenários climáticos e de design que proporciona um melhor desempenho.
+      A partir disso, projeto foi dividido em 4 entregáveis: Modelagem 3D; Circuito eletrônico; Aplicativo mobile (React-native); Banco de dados (FIREBASE). 
 
 ### Lista de materiais 
 
@@ -29,22 +28,28 @@ Além disso, a conexão entre Arduino e Lâmpada será por meio do Módulo Relé
 
 <p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
 
-Então, o projeto é dividido em 4 etapas: Modelagem 3D, Circuito de controle, Aplicativo mobile e Integração com banco de dados FIREBASE.
+
+#### Modelagem 3D                   
+
+O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
+
+###### Suporte triangular                                                                  Caixa organizadora
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="440" height="280" src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suporte-triangular-ef47ce964eb04a20bb9606e5213fcfc8?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Suporte Triangular </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="440" height="280" src="https://sketchfab.com/models/746f8a5b37c64de9aa7fdbf570902e2b/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-746f8a5b37c64de9aa7fdbf570902e2b?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+
+
+
+
 
 ### Etapa atual do projeto
-
-      
-
-### Próximos passos
-Agora em diante, serão feitas pesquisas sobre circuitos elétricos, banco de dados e Power BI. Em relação a banco de dados e PowerBI, o intuito é gerar um relatório com o consumo energético da lâmpada para analisar os dados. Já o estudo sobre circuitos elétricos será utilizado para entender e aplicar os conceitos no esquemático eletrônico do projeto.
-Com a chegada dos materiais para montagem do projeto, serão realizadas as primeiras experimentações. Será preciso configurar os sensores e o módulo de acordo com os parâmetros que já foram estabelecidos. Também será necessário integrar o arduino com um banco de dados para tabelar o quanto de energia está sendo consumido pela lâmpada e tabular esses dados para o relatório do PowerBI.
-Por fim, após a conclusão de testes e a obtenção de resultados satisfatórios, o projeto estará preparado para melhorar o conforto e o custo energético dos usuários.
-
-
-
-<p style="text-align: center;">
-<iframe src="https://cad.onshape.com/documents/0ed58b03ec28049336219488/w/7801c4c72c73d761150a870d/e/10694c8eac4e2a62478f9c23" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-</p>
+   #1C6941
+   A etapa atual do projeto consiste na integração do arduno com o banco de dados FIREBASE, para que possamos acessar os dados de coleta do aplicativo mobile através do FIREBASE. Com a conclusão desta etapa, iremos finalizar com a impressão definitiva das peças para montagem.
 
 
 ### Equipe de Desenvolvimento
@@ -52,7 +57,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
   <div class=" col-xl-auto offset-xl-0 col-lg-4 offset-lg-0">
     <div class="mobile-side-scroller">
       <table class="table-borderless highlight">
-        <thead>
           <tr>
             <th><center><img src="{{ 'assets/img/voluntarios/arley_matos.png' | relative_url }}" width="100" alt="Arley" class="img-fluid rounded-circle" /></center></th>
             <th></th>
@@ -60,10 +64,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="João Henrique" class="img-fluid rounded-circle"/></center></th>
-          </tr>
-        </thead>
-        <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
             <td width="25%"><center>Arley Matos</center></td>
             <td></td>
@@ -71,8 +71,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
             <td></td>
             <td width="25%"><center>João Gabriel</center></td>
             <td></td>
-            <td width="25%"><center>João Henrique</center></td>
-          </tr>
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>Voluntário desde 2021 <p/> Líder do projeto</center></small></td>
             <td></td>
@@ -80,12 +78,6 @@ Por fim, após a conclusão de testes e a obtenção de resultados satisfatório
             <td></td>
             <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</div>
+
 
 
