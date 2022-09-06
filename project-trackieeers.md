@@ -4,13 +4,13 @@ title:
 cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 ---
 
-      O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
+   O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
 
-      O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia e a criação do protótipo do Tracker e do software.
+   Inclui-se no projeto: Modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia, criação do protótipo do Tracker e do software.
 
 ## Desenvolvimento
-      Inicialmento analisamos as possibilidades de modelos de Solar Tracker (Seguidor Solar) de eixo único (movimentando-se em uma direção) através de pesquisas. Posteriormente, elaboramos um modelo original da PES CIMATEC no softwatre de modelagem 3D (SOLIDWORKS e ONSHAPE), levando em consideração os cenários climáticos e de design que proporciona um melhor desempenho.
-      A par pŕojeto foi dividido em 4 entregáveis: Modelagem 3D; Circuito eletrônico; Aplicativo mobile (React-native); Banco de dados (FIREBASE). 
+   Inicialmento analisamos as possibilidades de modelos de Solar Tracker (Seguidor Solar) de eixo único (movimentando-se em uma direção) através de pesquisas. Posteriormente, elaboramos um modelo original da PES CIMATEC no softwatre de modelagem 3D (SOLIDWORKS e ONSHAPE), levando em consideração os cenários climáticos e de design que proporciona um melhor desempenho.
+      A partir disso, projeto foi dividido em 4 entregáveis: Modelagem 3D; Circuito eletrônico; Aplicativo mobile (React-native); Banco de dados (FIREBASE). 
 
 ### Lista de materiais 
 
@@ -35,7 +35,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
 ###### Suporte do ṕainel da placa solar
 
-<div class="sketchfab-embed-wrapper"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="620" height="620" src="https://sketchfab.com/models/05e357003b8747888f35d34e6e0dd3fe/embed?autostart=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suportepainel-05e357003b8747888f35d34e6e0dd3fe?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;"> SuportePainel </a> by <a href="https://sketchfab.com/ArleyMatos?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;"> ArleyMatos </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=05e357003b8747888f35d34e6e0dd3fe" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<div class="sketchfab-embed-wrapper"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="620" height="620" src="https://sketchfab.com/models/05e357003b8747888f35d34e6e0dd3fe/embed?autostart=1"> 
 
 ##### Montagem 
 
