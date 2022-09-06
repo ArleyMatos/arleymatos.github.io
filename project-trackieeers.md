@@ -40,9 +40,8 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://cad.onshape.com/documents/63bcd5fd00682dbb1f131451/w/d81245d2ff1fa44501b193ff/e/f98bfa13f5e2ebaa364f07c2?renderMode=0&uiState=6316a172f1ff1419f3b349d5"> </iframe> </div>
-
-
-
+#
+#
 ##### Montagem 
 
 
