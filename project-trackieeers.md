@@ -35,7 +35,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
 ###### Suporte triangular
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed"> </iframe> </div>
+<div class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="500" height="500" src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suporte-triangular-ef47ce964eb04a20bb9606e5213fcfc8?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Suporte Triangular </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ##### Montagem 
 
