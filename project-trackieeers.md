@@ -37,17 +37,22 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 
 O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
 
-<div class="banner-box slick-slide slick-current slick-active" style="background-image: src="/assets/img/smart_energy/Equemático_Smart.png"; width: 892px; position: relative; left: -892px; top: 0px; z-index: 999; opacity: 1;" data-slick-index="1" aria-hidden="false" tabindex="0">
-                            <span class="sr-only">Imagem do slider</span>
-                        </div>
-  # teste 
-<div 
-     class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="340" height="280" src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suporte-triangular-ef47ce964eb04a20bb9606e5213fcfc8?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Suporte Triangular </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
-     class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="340" height="280" src="https://sketchfab.com/models/746f8a5b37c64de9aa7fdbf570902e2b/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-746f8a5b37c64de9aa7fdbf570902e2b?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
- 
-</div>
+##### Caixa Organizadora  
+   
+   class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/746f8a5b37c64de9aa7fdbf570902e2b/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-746f8a5b37c64de9aa7fdbf570902e2b?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
 
+  
+       
+   class="sketchfab-embed-wrapper"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/suporte-triangular-ef47ce964eb04a20bb9606e5213fcfc8?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Suporte Triangular </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=ef47ce964eb04a20bb9606e5213fcfc8" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p> 
+   
+  </div>
+  
+ </div>
 
+   
+   
+   
+  <div
 
 
 
