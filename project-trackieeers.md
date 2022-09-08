@@ -78,6 +78,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
    class="sketchfab-embed-wrapper2"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="300" height="220" margin="15"  src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> 
    <p  align="justify" style="text-align: center" margin-left="2"> Elaborado para apoiar a suspensão do eixo, evitando danos de cisaliamento mecânico na estrutura. </p>
    <br>
+   <br>
   </div>
 
 <br>
