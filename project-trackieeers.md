@@ -42,28 +42,26 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 Pensada em função de acolher os componentes eletrônicos do circuito. 
  
 <style type="text/css">
-  .conteudo img{
-    float : left;
+  .container img{
+    display: inline-flex;
   } 
   </style>
 
- <div class="conteudo">
+ <div class="container">
+    
+   class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/746f8a5b37c64de9aa7fdbf570902e2b/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-746f8a5b37c64de9aa7fdbf570902e2b?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>   
    
- <div   
-   class="sketchfab-embed-wrapper"> <h1> OLOKO MEUUUUUUUUUUUUUUUUUUUUlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll </h1>  <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/746f8a5b37c64de9aa7fdbf570902e2b/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-746f8a5b37c64de9aa7fdbf570902e2b?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=746f8a5b37c64de9aa7fdbf570902e2b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>   
-   </div>
+   <p>
+      OLOCOOASKDOAKSDOKASDKASKODAASKDAOSKDOAKSDOKASODKAOSKDOKASODOKASODKASODK
+      sadkoasokdoaksodkaoskdokasodkaoskdasodk
+   </p>
    
-<div class="texto">
-   
-   
-   
-   
-   </div>
+ </div>
    
    
    
    
-</div>
+
 
 ---
    
