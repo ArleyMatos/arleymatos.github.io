@@ -42,19 +42,17 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 Pensada em função de acolher os componentes eletrônicos do circuito. 
  
 <style type="text/css">
-  .container img{
+  .sketchfab-embed-wrapper iframe{
    float: left;
   } 
   </style>
-    <div class="contanier">
-   <div class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/69b3af6570604f478b9484e68334d02f/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-69b3af6570604f478b9484e68334d02f?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
    
-   <p>
+   <div class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/69b3af6570604f478b9484e68334d02f/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-69b3af6570604f478b9484e68334d02f?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p> 
+   <h1>
       oioioioioioioioii
    
-   </p> 
+   </h1> 
    
-   </div>  
     </div>  
  
    
