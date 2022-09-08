@@ -44,7 +44,8 @@ Pensada em função de acolher os componentes eletrônicos do circuito.
 <style type="text/css">
   .conteudo img{
     float : left;
-  }
+  } 
+  </style>
 
  <div class="conteudo">
    
