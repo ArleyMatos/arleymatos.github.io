@@ -67,7 +67,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
    
     </div>  
   
- #            
+ <br>
  ---
    
 ##### Suporte triangular  
