@@ -43,7 +43,7 @@ Pensada em função de acolher os componentes eletrônicos do circuito.
  
 <style type="text/css">
   .container img{
-   display: inline-flex;
+   float: left;
   } 
   </style>
     <div class="contanier">
@@ -55,7 +55,7 @@ Pensada em função de acolher os componentes eletrônicos do circuito.
    </p> 
    
    </div>  
-   </div>  
+    </div>  
  
    
    
