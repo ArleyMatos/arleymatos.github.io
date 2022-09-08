@@ -91,7 +91,6 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
    
 ### Etapa atual do projeto
    
-   1C6941
    A etapa atual do projeto consiste na integração do arduno com o banco de dados FIREBASE, para que possamos acessar os dados de coleta do aplicativo mobile através do FIREBASE. Com a conclusão desta etapa, iremos finalizar com a impressão definitiva das peças para montagem.
 
 <br>
