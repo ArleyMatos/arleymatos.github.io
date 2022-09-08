@@ -8,6 +8,8 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 
    Inclui-se no projeto: Modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia, criação do protótipo do Tracker e do software.
 
+---
+
 ### Equipe de Desenvolvimento
 
 <div class="row">
@@ -36,6 +38,7 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
             <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
             <td></td>
 
+---
 
 ## Desenvolvimento
    Inicialmento analisamos as possibilidades de modelos de Solar Tracker (Seguidor Solar) de eixo único (movimentando-se em uma direção) através de pesquisas. Posteriormente, elaboramos um modelo original da PES CIMATEC no softwatre de modelagem 3D (SOLIDWORKS e ONSHAPE), levando em consideração os cenários climáticos e de design que proporciona um melhor desempenho. A partir disso, projeto foi dividido em 4 entregáveis: 
