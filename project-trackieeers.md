@@ -84,6 +84,8 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
 <br>
 
+<br>
+
 ---
    
 ### Etapa atual do projeto
