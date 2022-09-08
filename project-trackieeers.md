@@ -84,9 +84,10 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 <br>
 
 ---
-  
+
+<div>  
 ##### Suporte do Painel
- 
+</div>
  <div class="sketchfab-embed-wrapper3"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="300" height="220"  margin-left="5" src="https://sketchfab.com/models/64863a20b9b544eeadbf5f3486f78764/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> 
    
    <p  align="justify" style="text-align: center" margin-left="2"> Estrura principal onde estão os sensores LDR e a placa solar. </p>
@@ -98,6 +99,8 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 ### Etapa atual do projeto
    #1C6941
    A etapa atual do projeto consiste na integração do arduno com o banco de dados FIREBASE, para que possamos acessar os dados de coleta do aplicativo mobile através do FIREBASE. Com a conclusão desta etapa, iremos finalizar com a impressão definitiva das peças para montagem.
+
+<br>
 
 ---
    
