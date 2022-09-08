@@ -41,6 +41,11 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
 Pensada em função de acolher os componentes eletrônicos do circuito. 
  
+<style type="text/css">
+  .conteudo img{
+    float : left;
+  }
+
  <div class="conteudo">
    
  <div   
