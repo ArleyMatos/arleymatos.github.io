@@ -7,39 +7,8 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
    O projeto Trackieeer consiste na construção de um Tracker, Seguidor Solar, utilizando um circuito de arduino, capaz de aumentar a capacidade de captação de energia solar dos módulos fotovoltaicos. Além da criação de um aplicativo mobile para tratamento de dados e análise da produção de energia.
 
    Inclui-se no projeto: Modelagem 3D no software SolidWorks, cálculos de ganhos de geração de energia, criação do protótipo do Tracker e do software.
-
----
-
-### Equipe de Desenvolvimento
-
-<div class="row">
-  <div class=" col-xl-auto offset-xl-0 col-lg-4 offset-lg-0">
-    <div class="mobile-side-scroller">
-      <table class="table-borderless highlight">
-          <tr>
-            <th><center><img src="{{ 'assets/img/voluntarios/arley_matos.png' | relative_url }}" width="100" alt="Arley" class="img-fluid rounded-circle" /></center></th>
-            <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/felipe_leao.jpg' | relative_url }}" width="100" alt="Felipe" class="img-fluid rounded-circle"/></center></th>
-            <th></th>
-            <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
-            <th></th>
-          <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
-            <td width="25%"><center>Arley Matos</center></td>
-            <td></td>
-            <td width="25%"><center>Felipe Leão</center></td>
-            <td></td>
-            <td width="25%"><center>João Gabriel</center></td>
-            <td></td>
-          <tr style="text-align: center" >
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021 <p/> Líder do projeto</center></small></td>
-            <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
-            <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
-            <td></td>
-
----
-
+   
+   
 ## Desenvolvimento
    Inicialmento analisamos as possibilidades de modelos de Solar Tracker (Seguidor Solar) de eixo único (movimentando-se em uma direção) através de pesquisas. Posteriormente, elaboramos um modelo original da PES CIMATEC no softwatre de modelagem 3D (SOLIDWORKS e ONSHAPE), levando em consideração os cenários climáticos e de design que proporciona um melhor desempenho. A partir disso, projeto foi dividido em 4 entregáveis: 
    
