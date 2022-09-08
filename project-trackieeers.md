@@ -63,7 +63,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
       
    <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="300" height="220" margin="15" src="https://sketchfab.com/models/69b3af6570604f478b9484e68334d02f/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe>
    
-   <p align="center" style="text-align: left;" > Esta caixa foi projetada para acolher os componente eletrônicos, visando uma maior organização e segurança do circuito. Dentro dela tem: Sensor de corrente e tensão; Módulo WiFi ESP8266 ESP-01; Arduino Uno R3 + Cabo USB; Protoboard 400 Pontos; Jumpers; Resistor 220R 1/4W ; Micro Servo 9g SG90 TowerPro. </p>
+   <p align="justify" style="text-align: center" margin-left="2" > Esta caixa foi projetada para acolher os componente eletrônicos, visando uma maior organização e segurança do circuito. Dentro dela tem: Sensor de corrente e tensão; Módulo WiFi ESP8266 ESP-01; Arduino Uno R3 + Cabo USB; Protoboard 400 Pontos; Jumpers; Resistor 220R 1/4W ; Micro Servo 9g SG90 TowerPro. </p>
    
     </div>  
   
@@ -76,8 +76,8 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
 
    <div
    class="sketchfab-embed-wrapper2"> <iframe title="Suporte Triangular" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="300" height="220" margin="15"  src="https://sketchfab.com/models/ef47ce964eb04a20bb9606e5213fcfc8/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> 
-   <p  align="center" style="text-align: left;"> Elaborado para apoiar a suspensão do eixo, evitando danos de cisaliamento mecânico na estrutura. </p>
-   
+   <p  align="justify" style="text-align: center" margin-left="2"> Elaborado para apoiar a suspensão do eixo, evitando danos de cisaliamento mecânico na estrutura. </p>
+   <br>
   </div>
 
 <br>
@@ -88,7 +88,7 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
  
  <div class="sketchfab-embed-wrapper3"> <iframe title="SuportePainel" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="300" height="220"  margin-left="5" src="https://sketchfab.com/models/64863a20b9b544eeadbf5f3486f78764/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe> 
    
-   <p  align="center" style="text-align: left;"> Estrura principal onde estão os sensores LDR e a placa solar. </p>
+   <p  align="justify" style="text-align: center" margin-left="2"> Estrura principal onde estão os sensores LDR e a placa solar. </p>
    
 <br>
    
