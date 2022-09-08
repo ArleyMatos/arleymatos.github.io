@@ -47,11 +47,10 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
   </style>
    
    <div class="sketchfab-embed-wrapper"> 
-   <h4>
-      Esta caixa foi projetada para acolher os componente eletrônicos, visando uma maior organização e segurança do circuito. Dentro dela tem: Sensor de corrente e tensão; Módulo WiFi ESP8266 ESP-01; Arduino Uno R3 + Cabo USB; Protoboard 400 Pontos; Jumpers; Resistor 220R 1/4W ; Micro Servo 9g SG90 TowerPro.
-   </h4> 
-   
+      
    <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="300" height="220" src="https://sketchfab.com/models/69b3af6570604f478b9484e68334d02f/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe>
+   Esta caixa foi projetada para acolher os componente eletrônicos, visando uma maior organização e segurança do circuito. Dentro dela tem: Sensor de corrente e tensão; Módulo WiFi ESP8266 ESP-01; Arduino Uno R3 + Cabo USB; Protoboard 400 Pontos; Jumpers; Resistor 220R 1/4W ; Micro Servo 9g SG90 TowerPro.
+   
    
    
     </div>  
