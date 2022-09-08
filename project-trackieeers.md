@@ -78,9 +78,12 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
    
    <p  align="justify" style="text-align: center" margin-left="2"> Estrura principal onde estão os sensores LDR e a placa solar. </p>
    
-<br>
-<br>
 </div>
+
+<br>
+<br>
+<br>
+<br>
 
 ---
    
