@@ -43,8 +43,7 @@ Pensada em função de acolher os componentes eletrônicos do circuito.
  
 <style type="text/css">
   .sketchfab-embed-wrapper img{
-    width: 300px;
-    float: left;
+   display: inline-flex;
   } 
   </style>
     
