@@ -33,8 +33,9 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 
 <p style="text-align: center;"> <img src="/assets/img/smart_energy/Equemático_Smart.png" alt="Esquema"/> </p>
 
+---
 
-#### Modelagem 3D                   
+### Modelagem 3D                   
 
 O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
 
@@ -64,17 +65,9 @@ O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWOR
    
    <p align="justify" style="text-align: center;" margin="4"> Esta caixa foi projetada para acolher os componente eletrônicos, visando uma maior organização e segurança do circuito. Dentro dela tem: Sensor de corrente e tensão; Módulo WiFi ESP8266 ESP-01; Arduino Uno R3 + Cabo USB; Protoboard 400 Pontos; Jumpers; Resistor 220R 1/4W ; Micro Servo 9g SG90 TowerPro. </p>
    
-   
-   
     </div>  
  
-   
-   
-   
-   
-
-
----
+ ---
    
 ##### Suporte triangular  
 
