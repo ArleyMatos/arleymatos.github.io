@@ -25,6 +25,7 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 * Protoboard 400 Pontos
 * Jumpers - Macho/Fêmea - 20 Unidades de 20cm
 * Resistor 220R 1/4W (10 Unidades)
+* Fotoresistor LDR (2 unidades)
 * Micro Servo 9g SG90 TowerPro
 
 
@@ -37,9 +38,7 @@ cover-img: /assets/img/Trackieeers/Background_Trackieeers_verde.png
 
 O softwares utilizados para cosntrução das peças e montagem foi o [**SOLIDWORKS**](https://www.solidworks.com/pt-br) e o [**ONSHAPE**](https://onshape.com/en/). A partir deles, possibilitou-se a confecção das peças do projeto e sua montagem posterior, podendo serem vistas logo abaixo:
 
-##### Caixa Organizadora  
-
-Pensada em função de acolher os componentes eletrônicos do circuito. 
+##### Caixa Organizadora   
  
 <style type="text/css">
   .sketchfab-embed-wrapper iframe{
@@ -47,11 +46,13 @@ Pensada em função de acolher os componentes eletrônicos do circuito.
   } 
   </style>
    
-   <div class="sketchfab-embed-wrapper"> <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/69b3af6570604f478b9484e68334d02f/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/caixa-69b3af6570604f478b9484e68334d02f?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Caixa </a> by <a href="https://sketchfab.com/trackieeers?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trackieeers </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=69b3af6570604f478b9484e68334d02f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p> 
-   <h1>
-      oioioioioioioioii
+   <div class="sketchfab-embed-wrapper"> 
+   <h4>
+      Esta caixa foi projetada para acolher os componente eletrônicos, visando uma maior organização e segurança do circuito. Dentro dela tem: Sensor de corrente e tensão; Módulo WiFi ESP8266 ESP-01; Arduino Uno R3 + Cabo USB; Protoboard 400 Pontos; Jumpers; Resistor 220R 1/4W ; Micro Servo 9g SG90 TowerPro.
+   </h4> 
    
-   </h1> 
+   <iframe title="Caixa" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="280" height="200" src="https://sketchfab.com/models/69b3af6570604f478b9484e68334d02f/embed?autospin=1&autostart=1&ui_theme=dark"> </iframe>
+   
    
     </div>  
  
